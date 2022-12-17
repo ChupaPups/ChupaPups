@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ChupaPups
+# 👋 Hi, I’m @Chikirao
 - 👀 I’m Learning programming languages 
